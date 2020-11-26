@@ -17,6 +17,12 @@ module.exports = {
         xlg: "25rem",
         md: "1.62rem",
       },
+      screens: {
+        xsm: "400px",
+      },
+      fontFamily: {
+        cairo: ["Cairo"],
+      },
     },
   },
   variants: {
